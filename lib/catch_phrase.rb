@@ -1,4 +1,4 @@
-phrase = a catch phrase
+phrase = "a catch phrase"
 
 def catch_phrase
   puts phrase 
