@@ -1,5 +1,5 @@
-phrase = "a catch phrase"
+
 
 def catch_phrase
-  puts phrase 
+  puts phrase = "a catch phrase"
 end
